@@ -1,0 +1,338 @@
+[
+  {
+    "QuestionNum": 1,
+    "Question": "Name",
+    "Response":{
+      "Responses1": "No",
+      "Responses2": "No",
+      "Responses3": "No",
+      "Responses4": "No",
+      "Responses5": "No",
+      "Responses6": "No",
+      "Responses6__1": "No",
+      "Responses7": "No",
+      "Responses8": "No",
+      "Responses9": "No"
+    }
+  },
+  {
+    "QuestionNum": 2,
+    "Question": "Title",
+    "Response":{
+      "Responses1": "No",
+      "Responses2": "No",
+      "Responses3": "No",
+      "Responses4": "No",
+      "Responses5": "No",
+      "Responses6": "No",
+      "Responses6__1": "No",
+      "Responses7": "No",
+      "Responses8": "No",
+      "Responses9": "No"
+    }
+  },
+  {
+    "QuestionNum": 3,
+    "Question": "Company",
+    "Response":{
+      "Responses1": "No",
+      "Responses2": "No",
+      "Responses3": "No",
+      "Responses4": "No",
+      "Responses5": "No",
+      "Responses6": "No",
+      "Responses6__1": "No",
+      "Responses7": "No",
+      "Responses8": "No",
+      "Responses9": "No"
+    }
+  },
+  {
+    "QuestionNum": 4,
+    "Question": "Address",
+    "Response":{
+      "Responses1": "No",
+      "Responses2": "No",
+      "Responses3": "No",
+      "Responses4": "No",
+      "Responses5": "No",
+      "Responses6": "No",
+      "Responses6__1": "No",
+      "Responses7": "No",
+      "Responses8": "No",
+      "Responses9": "No"
+    }
+  },
+  {
+    "QuestionNum": 5,
+    "Question": "City",
+    "Response":{
+      "Responses1": "No",
+      "Responses2": "No",
+      "Responses3": "No",
+      "Responses4": "No",
+      "Responses5": "No",
+      "Responses6": "No",
+      "Responses6__1": "No",
+      "Responses7": "No",
+      "Responses8": "No",
+      "Responses9": "No"
+    }
+  },
+  {
+    "QuestionNum": 6,
+    "Question": "State",
+    "Response":{
+      "Responses1": "No",
+      "Responses2": "No",
+      "Responses3": "No",
+      "Responses4": "No",
+      "Responses5": "No",
+      "Responses6": "No",
+      "Responses6__1": "No",
+      "Responses7": "No",
+      "Responses8": "No",
+      "Responses9": "No"
+    }
+  },
+  {
+    "QuestionNum": 7,
+    "Question": "Zip",
+    "Response":{
+      "Responses1": "No",
+      "Responses2": "No",
+      "Responses3": "No",
+      "Responses4": "No",
+      "Responses5": "No",
+      "Responses6": "No",
+      "Responses6__1": "No",
+      "Responses7": "No",
+      "Responses8": "No",
+      "Responses9": "No"
+    }
+  },
+  {
+    "QuestionNum": 8,
+    "Question": "Country",
+    "Response":{
+      "Responses1": "No",
+      "Responses2": "No",
+      "Responses3": "No",
+      "Responses4": "No",
+      "Responses5": "No",
+      "Responses6": "No",
+      "Responses6__1": "No",
+      "Responses7": "No",
+      "Responses8": "No",
+      "Responses9": "No"
+    }
+  },
+  {
+    "QuestionNum": 9,
+    "Question": "Location Name",
+    "Response":{
+      "Responses1": "No",
+      "Responses2": "No",
+      "Responses3": "No",
+      "Responses4": "No",
+      "Responses5": "No",
+      "Responses6": "No",
+      "Responses6__1": "No",
+      "Responses7": "No",
+      "Responses8": "No",
+      "Responses9": "No"
+    }
+  },
+  {
+    "QuestionNum": 10,
+    "Question": "Primary Business",
+    "Response":{
+      "Responses1": "No",
+      "Responses2": "No",
+      "Responses3": "No",
+      "Responses4": "No",
+      "Responses5": "No",
+      "Responses6": "No",
+      "Responses6__1": "No",
+      "Responses7": "No",
+      "Responses8": "No",
+      "Responses9": "No"
+    }
+  },
+  {
+    "QuestionNum": 11,
+    "Question": "Number of Production Lines",
+    "Response":{
+      "Responses1": "No",
+      "Responses2": "No",
+      "Responses3": "No",
+      "Responses4": "No",
+      "Responses5": "No",
+      "Responses6": "No",
+      "Responses6__1": "No",
+      "Responses7": "No",
+      "Responses8": "No",
+      "Responses9": "No"
+    }
+  },
+  {
+    "QuestionNum": 12,
+    "Question": "Operations Capacity",
+    "Response":{
+      "Responses1": "No",
+      "Responses2": "No",
+      "Responses3": "No",
+      "Responses4": "No",
+      "Responses5": "No",
+      "Responses6": "No",
+      "Responses6__1": "No",
+      "Responses7": "No",
+      "Responses8": "No",
+      "Responses9": "No"
+    }
+  },
+  {
+    "QuestionNum": 13,
+    "Question": "Production Unit OEMs Installed",
+    "Response":{
+      "Responses1": "No",
+      "Responses2": "No",
+      "Responses3": "No",
+      "Responses4": "No",
+      "Responses5": "No",
+      "Responses6": "No",
+      "Responses6__1": "No",
+      "Responses7": "No",
+      "Responses8": "No",
+      "Responses9": "No"
+    }
+  },
+  {
+    "QuestionNum": 14,
+    "Question": "Automation",
+    "Response":{
+      "Responses1": "No",
+      "Responses2": "No",
+      "Responses3": "No",
+      "Responses4": "No",
+      "Responses5": "No",
+      "Responses6": "No",
+      "Responses6__1": "No",
+      "Responses7": "No",
+      "Responses8": "No",
+      "Responses9": "No"
+    }
+  },
+  {
+    "QuestionNum": 15,
+    "Question": "Data Connected to Corporate",
+    "Response":{
+      "Responses1": "No",
+      "Responses2": "No",
+      "Responses3": "No",
+      "Responses4": "No",
+      "Responses5": "No",
+      "Responses6": "No",
+      "Responses6__1": "No",
+      "Responses7": "No",
+      "Responses8": "No",
+      "Responses9": "No"
+    }
+  },
+  {
+    "QuestionNum": 16,
+    "Question": "OSIPi Used",
+    "Response":{
+      "Responses1": "No",
+      "Responses2": "No",
+      "Responses3": "No",
+      "Responses4": "No",
+      "Responses5": "No",
+      "Responses6": "No",
+      "Responses6__1": "No",
+      "Responses7": "No",
+      "Responses8": "No",
+      "Responses9": "No"
+    }
+  },
+  {
+    "QuestionNum": 17,
+    "Question": "Number of Signals Collected",
+    "Response":{
+    "Responses1": 50,
+    "Responses2": 150,
+    "Responses3": 50,
+    "Responses4": 50,
+    "Responses5": 50,
+    "Responses6": 250,
+    "Responses6__1": 50,
+    "Responses7": 50,
+    "Responses8": 150,
+    "Responses9": 350
+    }
+  },
+  {
+    "QuestionNum": 18,
+    "Question": "Automation OEMs Installed",
+    "Response":{
+      "Responses1": "No",
+      "Responses2": "No",
+      "Responses3": "No",
+      "Responses4": "No",
+      "Responses5": "No",
+      "Responses6": "No",
+      "Responses6__1": "No",
+      "Responses7": "No",
+      "Responses8": "No",
+      "Responses9": "No"
+    }
+  },
+  {
+    "QuestionNum": 19,
+    "Question": "Data Connected to Cloud",
+    "Response":{
+      "Responses1": "No",
+      "Responses2": "No",
+      "Responses3": "No",
+      "Responses4": "No",
+      "Responses5": "No",
+      "Responses6": "No",
+      "Responses6__1": "No",
+      "Responses7": "No",
+      "Responses8": "No",
+      "Responses9": "No"
+    }
+  },
+  {
+    "QuestionNum": 20,
+    "Question": "Data Cloud/Lake Providers",
+    "Response":{
+      "Responses1": "No",
+      "Responses2": "No",
+      "Responses3": "No",
+      "Responses4": "No",
+      "Responses5": "No",
+      "Responses6": "No",
+      "Responses6__1": "No",
+      "Responses7": "No",
+      "Responses8": "No",
+      "Responses9": "No"
+    }
+  },
+  {
+    "QuestionNum": 21,
+    "Question": "Leveraging Advanced Analytics",
+    "Response":{
+      "Responses1": "No",
+      "Responses2": "No",
+      "Responses3": "No",
+      "Responses4": "No",
+      "Responses5": "No",
+      "Responses6": "No",
+      "Responses6__1": "No",
+      "Responses7": "No",
+      "Responses8": "No",
+      "Responses9": "No"
+    }
+  }
+]
