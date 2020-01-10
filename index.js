@@ -4,7 +4,7 @@ const data = require("./campaign1.json");
 const collectionKey = "campaign"; //name of the collection
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
-  databaseURL: "https://iquestionnaire-bf688.firebaseio.com"
+  databaseURL: Your Database URL
 });
 const firestore = admin.firestore();
 const settings = {timestampsInSnapshots: true};
